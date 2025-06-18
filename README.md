@@ -1,52 +1,14 @@
-<h2 align="left">Hi 👋! I'm Mehedi Hasan Rohan</h2>
+<h1 align="center">Hi there 👋, I'm Mehedi Hasan Rohan</h1>
 
-<img align="right" height="150" src="https://i.ibb.co/zs6V6HW/giphy.gif" alt="Coding Animation" />
+<p align="center">
+  <em>Passionate Computer Science undergraduate | Full-Stack & Mobile App Developer | Lifelong Learner</em>
+</p>
 
-I'm a passionate Computer Science & Engineering student and developer from Bangladesh. I love building meaningful projects, solving problems through code, and continuously learning new technologies. Whether it's frontend, backend, or mobile apps — I'm always up for a challenge.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Adobe Illustrator" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="Adobe XD" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mehedi-hasan-rohan-6927b9350" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehedi-hasan-rohan-62b5512aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:mehedihasanrohan07@gmail.com" target="_blank">
+  <a href="mailto:mehedihasanrohan07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/rav3n69" target="_blank">
@@ -55,24 +17,82 @@ I'm a passionate Computer Science & Engineering student and developer from Bangl
   <a href="https://www.instagram.com/ig_r4v39" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rav3n70-1&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rav3n70-1&theme=github-dark&hide_border=true" height="150" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav3n70-1&layout=compact&theme=github_dark" height="150" alt="Top Languages" />
+  <a href="https://ravensportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-<!-- Optional Contribution Snake -->
-<!-- 
-![snake gif](https://github.com/rav3n70-1/rav3n70-1/blob/output/github-contribution-grid-snake.svg)
--->
+## 👨‍💻 About Me
+
+I’m Mehedi Hasan Rohan, a highly motivated undergraduate student in Computer Science and Engineering at Daffodil International University (Expected Graduation: Dec 2025). I specialize in **full-stack development**, **mobile app design**, and **backend systems**. I’m passionate about applying my knowledge to real-world problems and building scalable, user-friendly software.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`PHP` | `Python` | `Java` | `JavaScript` | `C` | `Dart`  
+
+**Frameworks & Tools:**  
+`Flutter` | `Android` | `Firebase` | `Django` | `Git` | `GitHub` | `VS Code` | `Android Studio` | `Figma` | `Canva`  
+
+**Web & Database:**  
+`HTML5` | `CSS3` | `MySQL` | `Firebase` | `REST API` | `Database Design` | `Query Optimization`  
+
+**Professional Skills:**  
+Object-Oriented Programming (OOP) | SDLC | Agile | Problem Solving | Microsoft Suite
+
+---
+
+## 📂 Projects
+
+### 🔷 [ERP System](https://github.com/rav3n70-1/erp_project)
+> A scalable ERP platform built with PHP and MySQL, supporting robust employee and customer management modules.
+- Backend design using modular architecture
+- Normalized relational database for integrity and performance
+- Responsive frontend in HTML/CSS
+
+### 🔷 [RedCellNet – Blood Sharing App (Concept)](https://github.com/rav3n70-1/RedCellNet)
+> Android application to connect blood donors and recipients in real time.
+- Firebase Authentication & Realtime Database
+- Donor search, request handling, and profile management
+- Built using Android Studio and Dart (Flutter)
+
+### 🔷 [ATM System](https://github.com/rav3n70-1/ATM-Project)
+> Multithreaded CLI-based Java ATM simulation.
+- Implements secure login, withdrawal, deposit & balance checking
+- Emphasizes OOP, data structures, and exception handling
+
+---
+
+## 🎯 Goals
+
+- 📌 Gain hands-on industry experience through internship opportunities
+- 🚀 Contribute to impactful open-source projects
+- 🎓 Explore AI, ML, and ethical computing
+- 💡 Continue building scalable software with real-world impact
+
+---
+
+## 🌱 Currently Learning
+
+- Flutter Advanced State Management  
+- Firebase Security Rules  
+- Clean Architecture in Mobile Development  
+- System Design Principles  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rav3n70-1&show_icons=true&theme=react&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav3n70-1&layout=compact&theme=react" height="160" alt="Top Languages" />
+</p>
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
