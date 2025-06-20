@@ -92,8 +92,6 @@ Object-Oriented Programming (OOP) | SDLC | Agile | Problem Solving | Microsoft S
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav3n70-1&layout=compact&theme=react" height="160" alt="Top Languages" />
   
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rav3n70-1&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=rav3n70-1&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
