@@ -89,6 +89,7 @@ Object-Oriented Programming (OOP) | SDLC | Agile | Problem Solving | Microsoft S
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rav3n70-1&show_icons=true&theme=react&count_private=true" height="160" alt="GitHub Stats" />
+  ![rav3n70-1's Stats](https://github-readme-stats.vercel.app/api?username=rav3n70-1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav3n70-1&layout=compact&theme=react" height="160" alt="Top Languages" />
 </p>
 
